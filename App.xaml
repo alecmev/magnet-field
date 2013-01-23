@@ -1,0 +1,73 @@
+﻿<Application x:Class="MagnetField.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    
+    <Application.Resources>
+
+        <Style x:Key="ZEllipsePositive" TargetType="Ellipse">
+            <Setter Property="Fill" Value="#66E3BA2C" />
+        </Style>
+        <Style x:Key="ZEllipseNegative" TargetType="Ellipse">
+            <Setter Property="Fill" Value="#663F90CE" />
+        </Style>
+        <Style x:Key="ZEllipseVector" TargetType="Ellipse">
+            <Setter Property="Stroke" Value="#CCE3BA2C" />
+            <Setter Property="StrokeThickness" Value="8" />
+        </Style>
+        
+        <Style x:Key="LaserLine1" TargetType="Line">
+            <Setter Property="Stroke" Value="#99E87D73" />
+            <Setter Property="StrokeThickness" Value="2" />
+            <Setter Property="Visibility" Value="Hidden" />
+        </Style>
+        <Style x:Key="LaserLine2" TargetType="Line">
+            <Setter Property="Stroke" Value="#9991F56D" />
+            <Setter Property="StrokeThickness" Value="2" />
+            <Setter Property="Visibility" Value="Hidden" />
+        </Style>
+        <Style x:Key="LaserLine3" TargetType="Line">
+            <Setter Property="Stroke" Value="#99A972FF" />
+            <Setter Property="StrokeThickness" Value="2" />
+            <Setter Property="Visibility" Value="Hidden" />
+        </Style>
+        <Style x:Key="LaserLine4" TargetType="Line">
+            <Setter Property="Stroke" Value="#9970E6F5" />
+            <Setter Property="StrokeThickness" Value="2" />
+            <Setter Property="Visibility" Value="Hidden" />
+        </Style>
+        
+        <Style x:Key="AnglePath" TargetType="Path">
+            <Setter Property="Stroke" Value="#66000000" />
+            <Setter Property="StrokeThickness" Value="2" />
+            <Setter Property="Visibility" Value="Hidden" />
+        </Style>
+        <Style x:Key="SizeLine" TargetType="Line">
+            <Setter Property="Stroke" Value="#66000000" />
+            <Setter Property="StrokeThickness" Value="2" />
+            <Setter Property="Visibility" Value="Hidden" />
+        </Style>
+        <Style x:Key="PointerLine" TargetType="Line">
+            <Setter Property="Stroke" Value="#E3BA2C" />
+            <Setter Property="StrokeThickness" Value="4" />
+            <Setter Property="StrokeStartLineCap" Value="Round" />
+            <Setter Property="StrokeEndLineCap" Value="Triangle" />
+            <Setter Property="Visibility" Value="Hidden" />
+        </Style>
+        
+        <Style x:Key="InformationBorder" TargetType="Border">
+            <Setter Property="BorderBrush" Value="#FFFFFF" />
+            <Setter Property="BorderThickness" Value="2" />
+            <Setter Property="Background" Value="#663F3F3F" />
+            <Setter Property="Padding" Value="4, 0" />
+            <Setter Property="Visibility" Value="Hidden" />
+        </Style>
+        <Style x:Key="InformationText" TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="Consolas" />
+            <Setter Property="Foreground" Value="#FFFFFF" />
+            <Setter Property="Visibility" Value="Hidden" />
+        </Style>
+        
+    </Application.Resources>
+    
+</Application>

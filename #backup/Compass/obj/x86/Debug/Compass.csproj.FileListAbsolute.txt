@@ -1,0 +1,21 @@
+C:\Stuff\work\Tanks\Compass\bin\Debug\Compass.exe.config
+C:\Stuff\work\Tanks\Compass\bin\Debug\Compass.exe
+C:\Stuff\work\Tanks\Compass\bin\Debug\Compass.pdb
+C:\Stuff\work\Tanks\Compass\bin\Debug\MathNet.Numerics.dll
+C:\Stuff\work\Tanks\Compass\bin\Debug\zlib.net.dll
+C:\Stuff\work\Tanks\Compass\bin\Debug\MathNet.Numerics.pdb
+C:\Stuff\work\Tanks\Compass\bin\Debug\MathNet.Numerics.xml
+C:\Stuff\work\Tanks\Compass\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Stuff\work\Tanks\Compass\obj\x86\Debug\MainWindow.baml
+C:\Stuff\work\Tanks\Compass\obj\x86\Debug\MainWindow.g.cs
+C:\Stuff\work\Tanks\Compass\obj\x86\Debug\App.g.cs
+C:\Stuff\work\Tanks\Compass\obj\x86\Debug\Compass_MarkupCompile.cache
+C:\Stuff\work\Tanks\Compass\obj\x86\Debug\Compass.g.resources
+C:\Stuff\work\Tanks\Compass\obj\x86\Debug\Compass.Properties.Resources.resources
+C:\Stuff\work\Tanks\Compass\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Stuff\work\Tanks\Compass\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Stuff\work\Tanks\Compass\obj\x86\Debug\Compass.exe
+C:\Stuff\work\Tanks\Compass\obj\x86\Debug\Compass.pdb
+D:\stuff\work\shehurin\Magnet Field\#backup\Compass\bin\Debug\Compass.exe.config
+D:\stuff\work\shehurin\Magnet Field\#backup\Compass\obj\x86\Debug\Compass.exe
+D:\stuff\work\shehurin\Magnet Field\#backup\Compass\obj\x86\Debug\Compass.pdb

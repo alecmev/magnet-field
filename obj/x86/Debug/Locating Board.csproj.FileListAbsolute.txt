@@ -1,0 +1,29 @@
+C:\Stuff\work\Tanks\Locating Board\bin\Debug\Locating Board.exe.config
+C:\Stuff\work\Tanks\Locating Board\bin\Debug\Locating Board.exe
+C:\Stuff\work\Tanks\Locating Board\bin\Debug\Locating Board.pdb
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Debug\MainWindow.baml
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Debug\App.baml
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Debug\MainWindow.g.cs
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Debug\App.g.cs
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Debug\Locating Board_MarkupCompile.cache
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Debug\Locating Board.g.resources
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Debug\LocatingBoard.Properties.Resources.resources
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Debug\Locating Board.exe
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Debug\Locating Board.pdb
+D:\stuff\work\shehurin\Magnet Field\Locating Board\bin\Debug\Locating Board.exe.config
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\Locating Board.exe
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\Locating Board.pdb
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\MainWindow.baml
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\App.baml
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\MainWindow.g.cs
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\App.g.cs
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\Locating Board_MarkupCompile.cache
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\Locating Board.g.resources
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\LocatingBoard.Properties.Resources.resources
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\Locating Board.csproj.GenerateResource.Cache
+D:\stuff\work\shehurin\Magnet Field\Locating Board\bin\Debug\Locating Board.exe
+D:\stuff\work\shehurin\Magnet Field\Locating Board\bin\Debug\Locating Board.pdb
+D:\stuff\work\shehurin\Magnet Field\Locating Board\bin\Debug\Magnet Field.exe.config

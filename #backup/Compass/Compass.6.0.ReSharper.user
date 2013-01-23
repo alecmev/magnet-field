@@ -1,0 +1,308 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:CalibrationEventArgs.cs" caret="302" fromTop="12" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:app.config" caret="1073" fromTop="13" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/d:Properties/f:Settings.Designer.cs" caret="2453" fromTop="10" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml" caret="2987" fromTop="24" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:CompassWorker.cs" caret="1339" fromTop="0" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:CompassEventArgs.cs" caret="121" fromTop="6" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="5414" fromTop="26" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml" caret="3409" fromTop="38" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="6211" fromTop="37" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="1054" fromTop="18" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="1163" fromTop="22" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="5492" fromTop="37" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="4586" fromTop="17" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="5405" fromTop="66" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="860" fromTop="28" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="15" fromTop="1" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="275" fromTop="7" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:app.config" caret="1073" fromTop="13" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="1626" fromTop="37" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/d:Properties/f:Settings.Designer.cs" caret="2453" fromTop="10" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="588" fromTop="17" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:CompassWorker.cs" caret="1172" fromTop="4" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="1945" fromTop="28" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:CompassWorker.cs" caret="1302" fromTop="19" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml" caret="2007" fromTop="18" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="2851" fromTop="18" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="2851" fromTop="15" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="2851" fromTop="15" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="2851" fromTop="15" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="2642" fromTop="16" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="3021" fromTop="24" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml" caret="3151" fromTop="25" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml" caret="3302" fromTop="30" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml" caret="3384" fromTop="34" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml" caret="813" fromTop="19" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml" caret="3090" fromTop="24" />
+      <File id="8C4FFC79-DE36-4B5D-8652-E2B8D43ECCBE/f:MainWindow.xaml.cs" caret="5326" fromTop="24" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="287" />
+      <Item value="EventArgs`0" priority="31" />
+      <Item value="long" priority="31" />
+      <Item value="EntryPointNotFoundException`0" priority="31" />
+      <Item value="Point`0" priority="254" />
+      <Item value="Data" priority="31" />
+      <Item value="data" priority="383" />
+      <Item value="new" priority="576" />
+      <Item value="SerialPort" priority="57" />
+      <Item value="PortName" priority="26" />
+      <Item value="foreach" priority="31" />
+      <Item value="SerialPortComboBox" priority="127" />
+      <Item value="Content" priority="26" />
+      <Item value="tmpSerialPort" priority="32" />
+      <Item value="private" priority="383" />
+      <Item value="SerialPort`0" priority="31" />
+      <Item value="volatile" priority="63" />
+      <Item value="string" priority="128" />
+      <Item value="void" priority="127" />
+      <Item value="_portName" priority="31" />
+      <Item value="portName" priority="31" />
+      <Item value="bool" priority="223" />
+      <Item value="_stop" priority="63" />
+      <Item value="true" priority="127" />
+      <Item value="_compassWorker" priority="95" />
+      <Item value="CompassWorker`0" priority="31" />
+      <Item value="false" priority="159" />
+      <Item value="var" priority="639" />
+      <Item value="if" priority="575" />
+      <Item value="_serialPort" priority="95" />
+      <Item value="while" priority="63" />
+      <Item value="try" priority="63" />
+      <Item value="catch" priority="31" />
+      <Item value="Exception`0" priority="31" />
+      <Item value="break" priority="63" />
+      <Item value="_inputBuffer" priority="160" />
+      <Item value="Changed" priority="63" />
+      <Item value="this" priority="63" />
+      <Item value="CompassEventArgs" priority="28" />
+      <Item value="Point3D" priority="28" />
+      <Item value="BitConverter`0" priority="31" />
+      <Item value="e" priority="95" />
+      <Item value="TheArrow" priority="31" />
+      <Item value="Math`0" priority="285" />
+      <Item value="x" priority="31" />
+      <Item value="null" priority="31" />
+      <Item value="_milestone" priority="63" />
+      <Item value="_stopwatch" priority="95" />
+      <Item value="TheX" priority="95" />
+      <Item value="Int16`0" priority="64" />
+      <Item value="tmpRatio" priority="63" />
+      <Item value="NumberCultureSource`0" priority="31" />
+      <Item value="int" priority="124" />
+      <Item value="double" priority="64" />
+      <Item value="return" priority="95" />
+      <Item value="ThreadPriorityLevel`0" priority="63" />
+      <Item value="continue" priority="95" />
+      <Item value="tmpX" priority="127" />
+      <Item value="tmpY" priority="63" />
+      <Item value="test" priority="63" />
+      <Item value="byte" priority="151" />
+      <Item value="BaudRate" priority="32" />
+      <Item value="StopBits" priority="32" />
+      <Item value="Parity" priority="27" />
+      <Item value="Parity`0" priority="32" />
+      <Item value="StopBits`0" priority="32" />
+      <Item value="DataBits" priority="32" />
+      <Item value="DtrEnable" priority="27" />
+      <Item value="ReadTimeout" priority="32" />
+      <Item value="List" priority="60" />
+      <Item value="testBuffer" priority="95" />
+      <Item value="afterTimeout" priority="63" />
+      <Item value="_isCalibrated" priority="127" />
+      <Item value="else" priority="31" />
+      <Item value="_calibrationMilestone" priority="31" />
+      <Item value="List&lt;Point&gt;" priority="28" />
+      <Item value="_calibrationY" priority="31" />
+      <Item value="Point" priority="28" />
+      <Item value="_calibrationX" priority="31" />
+      <Item value="_calibrationMeasurements" priority="63" />
+      <Item value="_calibrationXMin" priority="31" />
+      <Item value="Int64`0" priority="63" />
+      <Item value="_calibrationOffset" priority="63" />
+      <Item value="lock" priority="31" />
+      <Item value="object" priority="89" />
+      <Item value="tmpZ" priority="31" />
+      <Item value="enum" priority="61" />
+      <Item value="readonly" priority="31" />
+      <Item value="CalibrationPhase`0" priority="31" />
+      <Item value="_calibration" priority="32" />
+      <Item value="Calibrated" priority="16" />
+      <Item value="NotCalibrated" priority="16" />
+      <Item value="switch" priority="63" />
+      <Item value="case" priority="63" />
+      <Item value="_calibrationPhase" priority="31" />
+      <Item value="CalibrationPhaseChanged" priority="95" />
+      <Item value="CalibrationEventArgs" priority="28" />
+      <Item value="Rotate" priority="16" />
+      <Item value="TheCalibration" priority="31" />
+      <Item value="IsFirst" priority="31" />
+      <Item value="isFirst" priority="31" />
+      <Item value="TheAngle" priority="63" />
+      <Item value="Canvas`0" priority="63" />
+      <Item value="TheRecalibrateButton" priority="31" />
+      <Item value="calibrationOffset" priority="63" />
+      <Item value="Settings`0" priority="127" />
+      <Item value="tmpPortName" priority="31" />
+      <Item value="IFormatProvider`0" priority="31" />
+      <Item value="Nullable`0" priority="31" />
+      <Item value="TheScatter" priority="31" />
+      <Item value="Ellipse" priority="59" />
+      <Item value="Width" priority="31" />
+      <Item value="Height" priority="32" />
+      <Item value="Fill" priority="32" />
+      <Item value="BorderBrush" priority="32" />
+      <Item value="SolidColorBrush`0" priority="32" />
+      <Item value="SolidColorBrush" priority="28" />
+      <Item value="Color`0" priority="31" />
+      <Item value="tmpDot" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Ports.SerialPort">
+      <Item value="GetPortNames`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ComboBox">
+      <Item value="Items" priority="26" />
+      <Item value="SelectedItem" priority="26" />
+      <Item value="IsEnabled" priority="26" />
+      <Item value="SelectionChanged" priority="26" />
+      <Item value="SelectedValue" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Add`0" priority="26" />
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Ports.SerialPort">
+      <Item value="PortName" priority="26" />
+      <Item value="Open`0" priority="26" />
+      <Item value="Read`0" priority="26" />
+      <Item value="IsOpen" priority="26" />
+      <Item value="Close`0" priority="26" />
+      <Item value="ReadExisting`0" priority="53" />
+      <Item value="BytesToRead" priority="26" />
+      <Item value="ReadByte`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Compass.CompassWorker">
+      <Item value="Stop`0" priority="53" />
+      <Item value="CalibrationOffset" priority="26" />
+      <Item value="Recalibrate`0" priority="26" />
+      <Item value="CalibrationPhaseChanged" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ComboBoxItem">
+      <Item value="Content" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.BitConverter">
+      <Item value="ToInt16`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Compass.CompassEventArgs">
+      <Item value="Data" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Shapes.Line">
+      <Item value="X2" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Point">
+      <Item value="X" priority="134" />
+      <Item value="Y" priority="26" />
+      <Item value="Offset`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Pow`0" priority="53" />
+      <Item value="Sqrt`0" priority="26" />
+      <Item value="Sign`0" priority="54" />
+      <Item value="Atan`0" priority="26" />
+      <Item value="PI" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.Stopwatch">
+      <Item value="ElapsedMilliseconds" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Text" priority="107" />
+      <Item value="ActualWidth" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="IsInfinity`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Ports.Parity">
+      <Item value="None" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Ports.StopBits">
+      <Item value="One" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int64">
+      <Item value="MaxValue" priority="26" />
+      <Item value="MinValue" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Compass.CalibrationPhase">
+      <Item value="Calibrating000" priority="26" />
+      <Item value="Rotate" priority="26" />
+      <Item value="Calibrated" priority="53" />
+      <Item value="Hold" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Compass.CalibrationEventArgs">
+      <Item value="Data" priority="26" />
+      <Item value="IsFirst" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Media3D.Point3D">
+      <Item value="X" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.Canvas">
+      <Item value="SetLeft`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="IsEnabled" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="Value" priority="26" />
+      <Item value="HasValue" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Compass.Properties.Settings">
+      <Item value="Default" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Compass.Properties.Settings">
+      <Item value="Save`0" priority="53" />
+      <Item value="CalibrationOffset" priority="80" />
+      <Item value="SerialPort" priority="53" />
+      <Item value="IsCalibrated" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Canvas">
+      <Item value="Children" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.UIElementCollection">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

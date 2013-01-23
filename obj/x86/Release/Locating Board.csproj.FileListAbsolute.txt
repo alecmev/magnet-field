@@ -1,0 +1,15 @@
+C:\Stuff\work\Tanks\Locating Board\bin\Release\Locating Board.exe
+C:\Stuff\work\Tanks\Locating Board\bin\Release\Locating Board.pdb
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Release\MainWindow.baml
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Release\MainWindow.g.cs
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Release\App.g.cs
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Release\Locating Board_MarkupCompile.cache
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Release\Locating Board.g.resources
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Release\LocatingBoard.Properties.Resources.resources
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Release\Locating Board.exe
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Release\Locating Board.pdb
+C:\Stuff\work\Tanks\Locating Board\obj\x86\Release\App.baml
+C:\Stuff\work\Tanks\Locating Board\bin\Release\Locating Board.exe.config

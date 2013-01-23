@@ -1,0 +1,37 @@
+D:\stuff\work\shehurin\Magnet Field\Locating Board\bin\Debug\Magnet Field.exe.config
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\MainWindow.baml
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\App.baml
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\MainWindow.g.cs
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\App.g.cs
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\Magnet Field_MarkupCompile.cache
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\Magnet Field.g.resources
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\MagnetField.Properties.Resources.resources
+D:\stuff\work\shehurin\Magnet Field\Locating Board\obj\x86\Debug\Magnet Field.csproj.GenerateResource.Cache
+D:\stuff\work\shehurin\Magnet Field\bin\Debug\Magnet Field.exe.config
+D:\stuff\work\shehurin\Magnet Field\bin\Debug\Magnet Field.exe
+D:\stuff\work\shehurin\Magnet Field\bin\Debug\Magnet Field.pdb
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Debug\MainWindow.baml
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Debug\App.baml
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Debug\MainWindow.g.cs
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Debug\App.g.cs
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Debug\Magnet Field_MarkupCompile.cache
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Debug\Magnet Field.g.resources
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Debug\MagnetField.Properties.Resources.resources
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Debug\Magnet Field.csproj.GenerateResource.Cache
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Debug\Magnet Field.exe
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Debug\Magnet Field.pdb
+C:\Magnet Field\bin\Debug\Magnet Field.exe.config
+C:\Magnet Field\obj\x86\Debug\Magnet Field.exe
+C:\Magnet Field\obj\x86\Debug\Magnet Field.pdb
+C:\Magnet Field\bin\Debug\Magnet Field.exe
+C:\Magnet Field\bin\Debug\Magnet Field.pdb
+C:\Magnet Field\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Magnet Field\obj\x86\Debug\MainWindow.baml
+C:\Magnet Field\obj\x86\Debug\App.baml
+C:\Magnet Field\obj\x86\Debug\MainWindow.g.cs
+C:\Magnet Field\obj\x86\Debug\App.g.cs
+C:\Magnet Field\obj\x86\Debug\Magnet Field_MarkupCompile.cache
+C:\Magnet Field\obj\x86\Debug\Magnet Field.g.resources
+C:\Magnet Field\obj\x86\Debug\MagnetField.Properties.Resources.resources
+C:\Magnet Field\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Magnet Field\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,28 @@
+D:\stuff\work\shehurin\Magnet Field\bin\Release\Magnet Field.exe.config
+D:\stuff\work\shehurin\Magnet Field\bin\Release\Magnet Field.exe
+D:\stuff\work\shehurin\Magnet Field\bin\Release\Magnet Field.pdb
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Release\MainWindow.baml
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Release\App.baml
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Release\MainWindow.g.cs
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Release\App.g.cs
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Release\Magnet Field_MarkupCompile.cache
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Release\Magnet Field.g.resources
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Release\MagnetField.Properties.Resources.resources
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Release\Magnet Field.csproj.GenerateResource.Cache
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Release\Magnet Field.exe
+D:\stuff\work\shehurin\Magnet Field\obj\x86\Release\Magnet Field.pdb
+C:\Magnet Field\bin\Release\Magnet Field.exe.config
+C:\Magnet Field\obj\x86\Release\Magnet Field.exe
+C:\Magnet Field\obj\x86\Release\Magnet Field.pdb
+C:\Magnet Field\bin\Release\Magnet Field.exe
+C:\Magnet Field\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Magnet Field\obj\x86\Release\MainWindow.baml
+C:\Magnet Field\obj\x86\Release\App.baml
+C:\Magnet Field\obj\x86\Release\MainWindow.g.cs
+C:\Magnet Field\obj\x86\Release\App.g.cs
+C:\Magnet Field\obj\x86\Release\Magnet Field_MarkupCompile.cache
+C:\Magnet Field\obj\x86\Release\Magnet Field.g.resources
+C:\Magnet Field\obj\x86\Release\MagnetField.Properties.Resources.resources
+C:\Magnet Field\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Magnet Field\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Magnet Field\bin\Release\Magnet Field.pdb

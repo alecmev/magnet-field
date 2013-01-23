@@ -1,0 +1,22 @@
+﻿<Window x:Class="MagnetField.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Magnet Field" Closing="WindowClosing">
+
+    <Window.Background>
+        <ImageBrush ImageSource="BoardBackground.png" />
+    </Window.Background>
+
+    <ScrollViewer Name="TheScrollViewer" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Visible" MouseUp="ScrollViewerMouseUp" SizeChanged="ScrollViewerSizeChanged">
+        <Canvas Name="TheCanvas" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" MouseUp="TheCanvasMouseUp">
+
+            <Canvas.Background>
+                <ImageBrush ImageSource="Board.png" AlignmentX="Center" AlignmentY="Center" TileMode="None" />
+            </Canvas.Background>
+            
+            <Image Name="TheMagnet" Source="Magnet.png" />
+
+        </Canvas>
+    </ScrollViewer>
+
+</Window>

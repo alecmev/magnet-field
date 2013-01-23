@@ -1,0 +1,81 @@
+﻿<Window x:Class="Compass.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Compass" SizeToContent="WidthAndHeight" ResizeMode="CanMinimize" Closing="WindowClosing"
+        Background="#3F3F3F">
+
+    <Window.Resources>
+        <Style x:Key="Information" TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="Consolas" />
+            <Setter Property="Foreground" Value="#DCDCCC" />
+        </Style>
+    </Window.Resources>
+
+    <Grid Width="320">
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="32" />
+            <RowDefinition Height="320" />
+            <RowDefinition Height="50" />
+            <!--<RowDefinition Height="320" />-->
+            <RowDefinition Height="32" />
+        </Grid.RowDefinitions>
+        
+        <ComboBox
+            Grid.Row="0"
+            Name="SerialPortComboBox"
+            VerticalContentAlignment="Center">
+            <ComboBoxItem Selector.IsSelected="True">Select serial port</ComboBoxItem>
+        </ComboBox>
+        
+        <Canvas
+            Grid.Row="1"
+            VerticalAlignment="Stretch"
+            HorizontalAlignment="Stretch">
+
+            <Line X1="160" Y1="36" X2="160" Y2="35" Stroke="#2A52BE" StrokeThickness="32" StrokeEndLineCap="Triangle"></Line>
+            <Line X1="160" Y1="284" X2="160" Y2="285" Stroke="#A52A2A" StrokeThickness="32" StrokeEndLineCap="Triangle"></Line>
+            <Ellipse Canvas.Top="32" Canvas.Left="32" Width="256" Height="256" Fill="#222222" />
+            <Line Name="TheArrow" X1="160" Y1="160" X2="160" Y2="40" Stroke="#1DACD6" StrokeThickness="8" StrokeEndLineCap="Triangle" StrokeStartLineCap="Round" />
+            <TextBlock Canvas.Top="-100" Canvas.Left="-100" Name="TheAngle" Style="{StaticResource Information}">0°</TextBlock>
+            
+        </Canvas>
+
+        <Canvas
+            Grid.Row="2"
+            VerticalAlignment="Stretch"
+            HorizontalAlignment="Stretch">
+
+            <TextBlock Canvas.Top="0" Canvas.Left="8" Name="TheX" Style="{StaticResource Information}">X = 0</TextBlock>
+            <TextBlock Canvas.Top="15" Canvas.Left="8" Name="TheY" Style="{StaticResource Information}">Y = 0</TextBlock>
+            <TextBlock Canvas.Top="30" Canvas.Left="8" Name="TheZ" Style="{StaticResource Information}">Z = 0</TextBlock>
+
+            <TextBlock Canvas.Top="0" Canvas.Left="96" Name="TheXReal" Style="{StaticResource Information}">0</TextBlock>
+            <TextBlock Canvas.Top="15" Canvas.Left="96" Name="TheYReal" Style="{StaticResource Information}">0</TextBlock>
+
+            <TextBlock Canvas.Top="0" Canvas.Left="160" Name="TheXOffset" Style="{StaticResource Information}">[ 0 ]</TextBlock>
+            <TextBlock Canvas.Top="15" Canvas.Left="160" Name="TheYOffset" Style="{StaticResource Information}">[ 0 ]</TextBlock>
+            <TextBlock Canvas.Top="30" Canvas.Left="160" Name="TheCalibration" Style="{StaticResource Information}"></TextBlock>
+            
+        </Canvas>
+
+        <!--<Canvas
+            Grid.Row="3"
+            Name="TheScatter"
+            VerticalAlignment="Stretch"
+            HorizontalAlignment="Stretch">
+            
+        </Canvas>-->
+
+            <Button
+            Grid.Row="3"
+            Name="TheCalibrateButton"
+            IsEnabled="False"
+            VerticalContentAlignment="Center"
+            Click="CalibrateClick">
+            Calibrate
+        </Button>
+
+    </Grid>
+    
+</Window>
